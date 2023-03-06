@@ -1,11 +1,11 @@
 # TheChatGPT
-![badge](https://img.shields.io/github/v/release/Fly_Ultra/TheChatGPT)
-[![badge](https://jitpack.io/v/Fly_Ultra/TheChatGPT.svg)](https://jitpack.io/#Fly_Ultra/TheChatGPT)
-![badge](https://img.shields.io/github/downloads/Fly_Ultra/TheChatGPT/total)
-![badge](https://img.shields.io/github/last-commit/Fly_Ultra/TheChatGPT)
+![badge](https://img.shields.io/github/v/release/FlyUltra/TheChatGPT)
+[![badge](https://jitpack.io/v/FlyUltra/TheChatGPT.svg)](https://jitpack.io/#FlyUltra/TheChatGPT)
+![badge](https://img.shields.io/github/downloads/FlyUltra/TheChatGPT/total)
+![badge](https://img.shields.io/github/last-commit/FlyUltra/TheChatGPT)
 ![badge](https://img.shields.io/badge/platform-spigot-lightgrey)
 [![badge](https://img.shields.io/discord/896466173166747650?label=discord)](https://discord.gg/2PpdrfxhD4)
-[![badge](https://img.shields.io/github/license/Fly_Ultra/TheChatGPT)](https://github.com/Fly_Ultra/TheChatGPT/blob/master/LICENSE.txt)
+[![badge](https://img.shields.io/github/license/FlyUltra/TheChatGPT)](https://github.com/FlyUltra/TheChatGPT/blob/master/LICENSE.txt)
 
 Very small API only about getting answer from ChatGPT from OpenAI!<br>
 By using [**OpenAI-GPT3**](https://github.com/TheoKanning/openai-java)<br>
@@ -91,4 +91,4 @@ dependencies {
 
 
 ## License
-TheChatGPT is licensed under the permissive MIT license. Please see [`LICENSE.txt`](https://github.com/Fly_Ultra/TheChatGPT/blob/master/LICENSE.txt) for more information.
+TheChatGPT is licensed under the permissive MIT license. Please see [`LICENSE.txt`](https://github.com/FlyUltra/TheChatGPT/blob/master/LICENSE.txt) for more information.
